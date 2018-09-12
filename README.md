@@ -1,3 +1,3 @@
 # Android application for crowdsourcing GNSS data
 
-Description coming soon. 
+Description of CrowdGNSS coming soon. 
